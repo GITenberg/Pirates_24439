@@ -1,0 +1,38 @@
+_repo: Pirates_24439
+_version: 0.1.0
+contributor:
+  commentator: &id001
+    agent_name: Fraser, Claud Lovat
+    birthdate: 1890
+    deathdate: 1921
+    gutenberg_agent_id: '26493'
+    url: http://www.gutenberg.org/2009/agents/26493
+  illustrator: *id001
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johnson, Charles, active 1724-1731
+    gutenberg_agent_id: '26500'
+    url: http://www.gutenberg.org/2009/agents/26500
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/d#a204
+    - http://en.wikipedia.org/wiki/Charles_Johnson_%28pirate_biographer%29
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2008-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F975'
+- !lcsh 'Pirates -- History -- 17th century'
+- !lcc 'CT'
+- !lcsh 'Pirates -- Biography'
+title: Pirates
+url: http://www.gutenberg.org/ebooks/24439

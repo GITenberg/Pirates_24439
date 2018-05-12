@@ -20,6 +20,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/d#a204
     - http://en.wikipedia.org/wiki/Charles_Johnson_%28pirate_biographer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24439#Pirates
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2008-01-27'
 gutenberg_type: Text
